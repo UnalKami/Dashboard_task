@@ -1,0 +1,23 @@
+{
+  "name": "dashboard_task",
+  "version": "1.0.0",
+  "description": "This will be a desktop app available for Linux in the first version.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnalKami/Dashboard_task.git"
+  },
+  "author": "Camilo Roncancio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnalKami/Dashboard_task/issues"
+  },
+  "homepage": "https://github.com/UnalKami/Dashboard_task#readme",
+  "devDependencies": {
+    "electron": "^37.2.5"
+  }
+}
