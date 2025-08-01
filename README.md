@@ -3,7 +3,7 @@ This will be a desktop app available for Linux in the first version.
 
 This README will be use to create all the documentation for this proyect.
 
-This proyect be created as an exercise for my experience.
+This proyect be created asan exercise for my experience.
 
 ## 1. How will it work?
 1. It will show a calendar where you can see all the activities you have in your routine like classes, work time, gym, meetings likes dailies, etc...
