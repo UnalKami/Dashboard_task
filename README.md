@@ -12,3 +12,21 @@ This proyect be created as an exercise for my experience.
 
 ## 2. Which framework was use?
 Electron  JS
+
+## 3. Installation
+
+```bash
+git clone https://github.com/UnalKami/Dashboard_task.git
+cd Dashboard_task
+npm install
+```
+
+## 4. Run Proyect
+
+```bash
+npm start
+```
+
+## Requirements
+- Node.js 16+
+- npm 8+
