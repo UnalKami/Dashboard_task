@@ -1,0 +1,47 @@
+@import "./nav.css";
+@import "./sidebar.css";
+@import "./button.css";
+
+* {
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-text-dark: #030712;
+    --color-gray-300: #d1d5db;
+    --color-gray-100: #f3f4f6;
+    --color-white: #ffffff;
+
+    --font-size-sm: 0.875rem;
+    
+    --line-height-sm: 1.25rem;
+
+    --border-radius-md: 0.25rem;
+
+    --duration-sm: 100ms;
+}
+
+body {
+    font-size: 18px;
+    line-height: 1.5;
+    color: var(--color-text-dark);
+}
+
+.app {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    height: 100vh;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.calendar {
+    height: 100%;
+}
