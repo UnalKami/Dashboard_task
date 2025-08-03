@@ -13,7 +13,7 @@ const  createMainWindow = () => {
         }
     })
 
-    win.loadFile("frontend/templates/index.html")
+    win.loadFile("frontend/templates/calendar.html")
 }
 
 app.whenReady().then(() => {
