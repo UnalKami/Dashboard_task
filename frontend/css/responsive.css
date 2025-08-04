@@ -1,5 +1,11 @@
+@media (min-width: 768px) {
+    .short-window {
+        display: none;
+    }
+}
+
 @media (max-width: 767px) {
     .desktop-responsive {
         display: none;
     }
-}
+} 
